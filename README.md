@@ -41,7 +41,7 @@ To use the bot, you'll need to generate a **Session ID** for WhatsApp authentica
 <a href = "https://nikkapair2.onrender.com/pair">get session </a>
 
 ## DEPLOY ON CODESPACE 
-<a href = "https://github.com/hakisolos/nikka-v3.2/codespaces/new">get session </a>
+<a href = "https://github.com/hakisolos/nikka-v3.2/codespaces/new">DEPLOY</a>
 
 ## MADE WITH 💖 BY HAKI
 
